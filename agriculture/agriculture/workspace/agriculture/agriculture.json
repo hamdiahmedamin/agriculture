@@ -1,6 +1,6 @@
 {
     "charts": [],
-    "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Crops & Lands\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Analytics\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Diseases & Fertilizers\", \"col\": 4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Attendance Dashboard\",\"col\":3}}]",
+    "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Reports & Masters\", \"level\": 4, \"col\": 12}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Crops & Lands\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Analytics\", \"col\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Diseases & Fertilizers\", \"col\": 4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Attendance Dashboard\",\"col\":4}}]",
     "creation": "2020-03-02 17:23:34.339274",
     "docstatus": 0,
     "doctype": "Workspace",
