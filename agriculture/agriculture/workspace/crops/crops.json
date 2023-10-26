@@ -1,0 +1,39 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"keDUPsbQuA\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Crops</span>\",\"col\":12}},{\"id\":\"XqdQ_z-Yf1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Crop\",\"col\":3}}]",
+ "creation": "2023-10-26 02:57:35.686081",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "agriculture",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Crops",
+ "links": [],
+ "modified": "2023-10-26 03:12:13.695116",
+ "modified_by": "Administrator",
+ "module": "Agriculture",
+ "name": "Crops",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "Agriculture",
+ "public": 1,
+ "quick_lists": [],
+ "restrict_to_domain": "Agriculture",
+ "roles": [],
+ "sequence_id": 33.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Crop",
+   "link_to": "Crop",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Crops"
+}
