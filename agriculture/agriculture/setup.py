@@ -17,6 +17,11 @@ def create_agriculture_data():
 			parent_item_group=_('All Item Groups')),
 		dict(
 			doctype='Item Group',
+			item_group_name='Pesticide',
+			is_group=0,
+			parent_item_group=_('All Item Groups')),		
+		dict(
+			doctype='Item Group',
 			item_group_name='Seed',
 			is_group=0,
 			parent_item_group=_('All Item Groups')),

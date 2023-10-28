@@ -5,7 +5,7 @@ def get_data():
 		{
 			"module_name": "Agriculture",
 			"color": "grey",
-			"icon": "octicon octicon-file-directory",
+			"icon": "farm",
 			"type": "module",
 			"label": _("Agriculture")
 		}
